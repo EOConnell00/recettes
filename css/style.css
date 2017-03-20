@@ -7,7 +7,7 @@ body {
 
 /* style for the heading/title. This will center it, change the font size and add a border around it */
 
-h1 {
+header h1 {
     width: 75%;
     margin: 50px auto;
     font-size: 24px;
