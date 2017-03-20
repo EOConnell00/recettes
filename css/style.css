@@ -1,0 +1,17 @@
+/* baisc template to reset some default padding/margin settings */
+body {  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* style for the heading/title. This will center it, change the font size and add a border around it */
+
+header h1 {
+    width: 75%;
+    margin: 50px auto;
+    font-size: 24px;
+    text-transform: uppercase;
+    border: 5px solid grey; 
+}
+
